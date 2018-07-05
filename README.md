@@ -9,6 +9,8 @@
 
 主题包
 ---
-（已适配1.2.9-b3）
+已适配1.2.9-b3
+`更新主题前，请先切换回默认主题！！`
 * [常规字体主题](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/1.2.9-beta2/%E4%B8%BB%E9%A2%98-%E5%B8%B8%E8%A7%84%E5%AD%97%E4%BD%93aseprite-theme-nomal.zip "aseprite-theme-nomal.zip")
 * [像素字体主题](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/1.2.9-beta2/%E4%B8%BB%E9%A2%98-%E5%83%8F%E7%B4%A0%E5%AD%97%E4%BD%93aseprite-theme-pixel.zip "aseprite-theme-pixel.zip")
+
