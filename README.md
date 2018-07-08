@@ -10,7 +10,6 @@
 主题包
 ---
 已适配1.2.9-b3
-`更新主题前，请先切换回默认主题！！如有问题，请尝试重启软件。`
+`更新主题时，第一次更新会报错，重启软件再次安装即可。`
 * [常规字体主题](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/1.2.9-beta2/%E4%B8%BB%E9%A2%98-%E5%B8%B8%E8%A7%84%E5%AD%97%E4%BD%93aseprite-theme-nomal.zip "aseprite-theme-nomal.zip")
-* [像素字体主题](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/1.2.9-beta2/%E4%B8%BB%E9%A2%98-%E5%83%8F%E7%B4%A0%E5%AD%97%E4%BD%93aseprite-theme-pixel.zip "aseprite-theme-pixel.zip")`自带字体文件。`
-* [像素字体主题更新包](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/1.2.9-beta2/%E4%B8%BB%E9%A2%98-%E5%83%8F%E7%B4%A0%E5%AD%97%E4%BD%93%EF%BC%88%E6%9B%B4%E6%96%B0%E5%8C%85%EF%BC%89aseprite-theme-pixel.zip "aseprite-theme-pixel-nofonts.zip")`为了减小文件体积不含字体文件，仅供使用过之间版本的用户更新用。`
+* [像素字体主题](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/1.2.9-beta2/%E4%B8%BB%E9%A2%98-%E5%83%8F%E7%B4%A0%E5%AD%97%E4%BD%93aseprite-theme-pixel.zip "aseprite-theme-pixel.zip")`缩小了字体文件（2018年7月8日）。`
