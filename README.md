@@ -5,7 +5,7 @@
 汉化包
 ---
 * [正式版本（v1.2.9）](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/Formal/Aseprite%E6%B1%89%E5%8C%96(1.2.9).zip "Aseprite汉化(1.2.9).zip")
-* [测试版本（v1.2.10b2）](https://raw.githubusercontent.com/J-11/Aseprite-Simplified-Chinese/master/Beta/Aseprite%E6%B1%89%E5%8C%96(1.2.10b2).zip "Aseprite汉化(1.2.10b2).zip")
+* [测试版本（v1.2.10b3）](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/Beta/Aseprite%E6%B1%89%E5%8C%96(1.2.10b3).zip "Aseprite汉化(1.2.10b3).zip")
 
 主题包
 ---
