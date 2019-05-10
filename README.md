@@ -5,7 +5,7 @@
 汉化包
 ---
 * [正式版本（v1.2.10）](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/Formal/Aseprite%E6%B1%89%E5%8C%96(1.2.10).aseprite-extension "Aseprite汉化(1.2.10)")
-* [测试版本（暂无）]
+* [测试版本（暂无）]()
 
 主题包
 ---
