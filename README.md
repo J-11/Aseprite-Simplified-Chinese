@@ -4,12 +4,12 @@
 
 汉化包
 ---
-* [正式版本（v1.2.10）](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/Formal/Aseprite%E6%B1%89%E5%8C%96(1.2.10).aseprite-extension "Aseprite汉化(1.2.10)")`v1.2.11版更新无变化。`
+* [正式版本（v1.2.12）](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/Formal/Aseprite%E6%B1%89%E5%8C%96(1.2.12).aseprite-extension "Aseprite汉化(1.2.12)")` `
 * [测试版本（暂无）]()
 
 主题包
 ---
-已适配1.2.10 （由[Jun-ce](https://github.com/Jun-ce)提供Mac字体参考。）
+已适配1.2.12 （由[Jun-ce](https://github.com/Jun-ce)提供Mac字体参考。）
 `若安装过旧主题，更新可能会报错，重启软件再次安装即可。`
 * [常规字体主题（Win）](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/Formal/%E4%B8%BB%E9%A2%98-%E5%B8%B8%E8%A7%84%E5%AD%97%E4%BD%93-Win.aseprite-extension "aseprite-theme-nomal-win")
 * [常规字体主题（Mac）](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/Formal/%E4%B8%BB%E9%A2%98-%E5%B8%B8%E8%A7%84%E5%AD%97%E4%BD%93-Mac.aseprite-extension "aseprite-theme-nomal-mac")
