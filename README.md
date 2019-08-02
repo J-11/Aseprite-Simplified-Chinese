@@ -4,7 +4,7 @@
 
 汉化包
 ---
-* [正式版本（v1.2.13）](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/Formal/Aseprite%E6%B1%89%E5%8C%96(1.2.13).aseprite-extension "Aseprite汉化(1.2.13)")` `
+* [正式版本（v1.2.13）](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/Formal/Aseprite%E6%B1%89%E5%8C%96(1.2.13).aseprite-extension "Aseprite汉化(1.2.13)")`下载后请确认扩展名为.aseprite-extension（图标是个插头“兔子”）`
 * [测试版本（暂无）]()
 
 主题包
