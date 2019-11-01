@@ -4,17 +4,17 @@
 
 汉化包
 ---
-* [正式版本（v1.2.13）](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/Formal/Aseprite%E6%B1%89%E5%8C%96(1.2.13).aseprite-extension "Aseprite汉化(1.2.13)")`下载后请确认扩展名为.aseprite-extension（图标是个插头“兔子”）`
+* [正式版本（v1.2.15）](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.15/hanhua-1.2.15.aseprite-extension "Aseprite汉化(1.2.15)")`下载后请确认扩展名为.aseprite-extension（图标是个插头“兔子”）`
 * [测试版本（暂无）]()
 * [备用链接](https://gitee.com/J-11/Aseprite-Simplified-Chinese/blob/master/README.md)`码云镜像`
 
 主题包
 ---
-已适配1.2.12 （由[Jun-ce](https://github.com/Jun-ce)提供Mac字体参考。）
+已适配1.2.15 （由[Jun-ce](https://github.com/Jun-ce)提供Mac字体参考。）
 `若安装过旧主题，更新可能会报错，重启软件再次安装即可。`
-* [常规字体主题（Win）](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/Formal/%E4%B8%BB%E9%A2%98-%E5%B8%B8%E8%A7%84%E5%AD%97%E4%BD%93-Win.aseprite-extension "aseprite-theme-nomal-win")
-* [常规字体主题（Mac）](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/Formal/%E4%B8%BB%E9%A2%98-%E5%B8%B8%E8%A7%84%E5%AD%97%E4%BD%93-Mac.aseprite-extension "aseprite-theme-nomal-mac")
-* [像素字体主题](https://github.com/J-11/Aseprite-Simplified-Chinese/raw/master/Formal/%E4%B8%BB%E9%A2%98-%E5%83%8F%E7%B4%A0%E5%AD%97%E4%BD%93.aseprite-extension "aseprite-theme-pixel")
+* [常规字体主题（Win）](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.15/zhuti-Win.aseprite-extension "aseprite-theme-nomal-win")
+* [常规字体主题（Mac）](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.15/zhuti-Mac.aseprite-extension "aseprite-theme-nomal-mac")
+* [像素字体主题](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.15/zhuti-xiangsu.aseprite-extension "aseprite-theme-pixel")
 
 
 <img src="https://raw.githubusercontent.com/J-11/Aseprite-Simplified-Chinese/master/pic/GIFhh.gif" width="600" alt="汉化" />
