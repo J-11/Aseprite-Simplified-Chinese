@@ -4,7 +4,7 @@
 
 汉化包
 ---
-* [正式版本（v1.2.15）](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.15/hanhua-1.2.15.aseprite-extension "Aseprite汉化(1.2.15)")`下载后请确认扩展名为.aseprite-extension（图标是个插头“兔子”）`
+* [正式版本（v1.2.17）](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.17/hanhua-1.2.17.aseprite-extension "Aseprite汉化(1.2.17)")`下载后请确认扩展名为.aseprite-extension（图标是个插头“兔子”）`
 * [测试版本（暂无）]()
 * [备用链接](https://gitee.com/J-11/Aseprite-Simplified-Chinese/blob/master/README.md)`码云镜像`
 
