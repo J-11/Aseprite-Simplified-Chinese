@@ -1,10 +1,10 @@
 # Aseprite 相关汉化文件
 
-更多信息请转至[Steam社区指南](https://steamcommunity.com/sharedfiles/filedetails/?id=1333477949 "详细教程")
+详细信息请转至[Steam社区指南](https://steamcommunity.com/sharedfiles/filedetails/?id=1333477949 "详细教程")
 
 汉化包
 ---
-* [正式版本（v1.2.18）](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.18/hanhua-1.2.18.aseprite-extension "Aseprite汉化(1.2.18)")`下载后请确认扩展名为.aseprite-extension（图标是个插头“兔子”）`
+* [正式版本（v1.2.18）](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.18/hanhua-1.2.18.aseprite-extension "Aseprite汉化(1.2.18)")--尝试解决mac系统下安装汉化闪退的问题（感谢[edok10](https://github.com/edok10)）
 * [测试版本（暂无）]()
 * [备用链接](https://gitee.com/J-11/Aseprite-Simplified-Chinese/blob/master/README.md)`码云镜像`
 
