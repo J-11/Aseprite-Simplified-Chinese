@@ -17,5 +17,5 @@
 * [像素字体主题](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.18/zhuti-xiangsu.aseprite-extension "aseprite-theme-pixel")
 
 
-<img src="https://raw.githubusercontent.com/J-11/Aseprite-Simplified-Chinese/master/pic/GIFhh.gif" width="600" alt="汉化" />
-<img src="https://raw.githubusercontent.com/J-11/Aseprite-Simplified-Chinese/master/pic/GIFzt.gif" width="600" alt="主题" />
+<img src="https://images.gitee.com/uploads/images/2019/0704/182544_b7ea69cf_2033426.gif" width="600" alt="汉化" />
+<img src="https://images.gitee.com/uploads/images/2019/0704/182544_9d0120a7_2033426.gif" width="600" alt="主题" />
