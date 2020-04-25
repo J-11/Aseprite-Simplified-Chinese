@@ -4,6 +4,7 @@
 
 汉化包
 ---
+`因为扩展名称改动，安装过旧版本汉化的需要在 首选项-扩展 中删除sChinese扩展（新扩展名为Simplified Chinese）`
 * [正式版本（v1.2.18）](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.18/hanhua-1.2.18.aseprite-extension "Aseprite汉化(1.2.18)")--尝试解决mac系统下安装汉化闪退的问题（感谢[edok10](https://github.com/edok10)）
 * [测试版本（暂无）]()
 * [备用链接](https://gitee.com/J-11/Aseprite-Simplified-Chinese/blob/master/README.md)`码云镜像`
