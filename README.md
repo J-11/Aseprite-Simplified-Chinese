@@ -13,9 +13,9 @@
 ---
 已适配1.2.15 （由[Jun-ce](https://github.com/Jun-ce)提供Mac字体参考。）
 `若安装过旧主题，更新可能会报错，重启软件再次安装即可。`
-* [常规字体主题（Win）](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.18/zhuti-Win.aseprite-extension "aseprite-theme-nomal-win")
-* [常规字体主题（Mac）](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.18/zhuti-Mac.aseprite-extension "aseprite-theme-nomal-mac")
-* [像素字体主题](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.18/zhuti-xiangsu.aseprite-extension "aseprite-theme-pixel")
+* [常规字体主题（Win）](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.23/zhuti-Win.aseprite-extension "aseprite-theme-nomal-win")
+* [常规字体主题（Mac）](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.23/zhuti-Mac.aseprite-extension "aseprite-theme-nomal-mac")
+* [像素字体主题](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.23/zhuti-xiangsu.aseprite-extension "aseprite-theme-pixel")
 
 
 <img src="https://images.gitee.com/uploads/images/2019/0704/182544_b7ea69cf_2033426.gif" width="600" alt="汉化" />
