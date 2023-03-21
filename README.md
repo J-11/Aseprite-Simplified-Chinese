@@ -6,7 +6,7 @@
 ---
 `因为扩展名称改动，安装过旧版本汉化的需要在 首选项-扩展 中删除sChinese扩展（新扩展为Simplified Chinese）`
 * [正式版本（v1.2.23）](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/v1.2.23/hanhua-1.2.23.aseprite-extension "Aseprite汉化(1.2.23)")--已解决mac系统下安装汉化闪退的问题（感谢[edok10](https://github.com/edok10)）
-* [测试版本（暂无）]()
+* [测试版本（v1.3-rc1）](https://github.com/J-11/Aseprite-Simplified-Chinese/releases/download/1.3-rc1/Aseprite.1.3rc1.aseprite-extension)
 * [备用链接](https://gitee.com/J-11/Aseprite-Simplified-Chinese/blob/master/README.md)`码云镜像`
 
 主题包
